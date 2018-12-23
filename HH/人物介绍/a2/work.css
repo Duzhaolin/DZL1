@@ -1,0 +1,48 @@
+*{margin: 0;padding: 0;list-style: none;}
+body{
+    background: white;font-family: "微软雅黑";font-size: 15px;margin: 0 auto;
+    width: 900px;
+}
+.new{
+    position: fixed;
+    left:1200px;
+    bottom:20px;
+ }
+ .new img{
+     width: 150px;
+     float: right;
+    
+ }
+ .a2
+ {
+     font-family: "楷体";
+     text-align: center;
+     font-size: 50px;
+     color: aquamarine
+ }
+ .new p{
+     font-size: 30px;
+     margin-left:150px;
+ }
+ .text5 h1{
+     height: 50px;
+ }
+.a1 p{
+    font-size: 20px;
+    text-align: center;
+    color: cadetblue;
+    font-family: "楷体";
+}
+ .a1 hr{
+    color: rgb(32, 10, 10);
+  height: 20px;
+}
+.text5 img{
+    float: left;
+}
+ .a1{
+    color: red;
+}
+.q1{
+    float: right
+}

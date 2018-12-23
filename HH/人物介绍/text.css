@@ -1,0 +1,60 @@
+*{margin:0;padding:0}
+body{background-color:white;font-family: "楷体";font-size: 16px;color:#a5a5a5;
+    margin: 0 auto;
+width: 900px;}
+.new1{
+    position: fixed;
+    left:1000px;
+    bottom:20px;
+    margin-left:-950px;
+    
+ }
+ .new1 img{
+     width: 200px;
+ }
+ .new1 p{
+    color: red;
+    font-size: 40px;
+}
+.new{
+   position: fixed;
+   left:1000px;
+   bottom:20px;
+   margin-left:300px;
+}
+.new img{
+    width: 200px;
+
+}
+.new p{
+    color: red;
+    font-size: 40px;
+}
+.a1{
+    width: 900px;
+    margin: 0 auto;
+}
+.sss a img{
+    width: 900px;
+    height: 500px;
+}
+.a1 p{
+    font-size: 30px;
+    color:rgb(0, 0, 0);
+}
+.a1 p a{text-decoration:none;}
+.a1 hr{
+    height: 2px;
+    background-color: rgb(14, 117, 138);
+}
+.sss hr{
+    height: 2px;
+    background-color:rgb(14, 117, 138);
+}
+.text{
+    color: rgb(66, 66, 66);
+    font-size: 20px;
+    height: 50px;
+    margin: 0 auto;
+    float: right;
+}
